@@ -1,0 +1,2 @@
+opencv_pkg
+-DCATKIN_DEVEL_PREFIX=/home/bobby/opencv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bobby/opencv_ws/install -G Unix Makefiles
