@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 
 # 读取视频文件
-video_path = 'github/opencv_project/video_pkg/stream.mp4'
+video_path = 'test/opencv_project/video_pkg/stream.mp4'
 cap = cv2.VideoCapture(video_path)
 
 # 获取视频信息

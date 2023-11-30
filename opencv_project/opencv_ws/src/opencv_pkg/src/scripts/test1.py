@@ -48,10 +48,10 @@ def process_image(image_path, output_folder):
 
 def main():
     # 图片文件夹路径
-    folder_path = "github/opencv_project/video_pkg"
+    folder_path = "test/opencv_project/video_pkg"
     
     # 输出文件夹路径
-    output_folder = "github/opencv_project/video_pkg_output"
+    output_folder = "test/opencv_project/video_pkg_output"
     
     # 确保输出文件夹存在
     if not os.path.exists(output_folder):
